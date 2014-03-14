@@ -1,3 +1,5 @@
 myFile1.txt
 
 This is an initial test line...
+
+This is a new line of code
